@@ -1,10 +1,4 @@
-**Status:** Active (under active development, breaking changes may occur)
-
 This repository will implement the classic and state-of-the-art deep reinforcement learning algorithms. The aim of this repository is to provide clear pytorch code for people to learn the deep reinforcement learning algorithm. 
-
-In the future, more state-of-the-art algorithms will be added and the existing codes will also be maintained.
-
-![demo](https://github.com/sweetice/Deep-reinforcement-learning-with-pytorch/blob/master/figures/grid.gif)
 
 ## Requirements
 - python <=3.6 
@@ -12,13 +6,7 @@ In the future, more state-of-the-art algorithms will be added and the existing c
 - gym >= 0.10
 - pytorch >= 0.4
 
-**Note that tensorflow does not support python3.7** 
 
-## Installation
-
-```
-pip install -r requirements.txt
-```
 
 If you fail:  
 
